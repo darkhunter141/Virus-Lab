@@ -8,7 +8,7 @@
  pkg install python2
 ```
 ```
- git clone 
+ git clone https://github.com/darkhunter141/Virus-Lab
 ```
 ```
  cd 
@@ -19,13 +19,13 @@
 <h3><b>Copy & Paste</b></h3>
 
 ```
-pip2 install gtts && pkg install python2 && git clone https://github.com/darkhunter141/Termux-Assistant && cd Termux-Assistant && python2 main.py
+pip2 install gtts && pkg install python2 && git clone https://github.com/darkhunter141/Virus-Lab && cd Virus-Lab && python2 virus
 
 ```
 <br>
 <h3><b>📸Screenshot</b></h3>
 <br>
-<img src="">
+<img src="https://raw.githubusercontent.com/darkhunter141/Virus-Lab/main/Screenshot_20210524_004336.jpg">
 <br>
 <h3> It Provide only for legal activities. If You Misuse it we are not responsible for this</h3>
 <h3><b><i>🖥️ Contact Info </i></b></h3>
