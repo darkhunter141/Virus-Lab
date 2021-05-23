@@ -1,25 +1,21 @@
 
-<b><h1> Text to voice converter tool for Kali and Termux 💥
+<b><h1> Infect Any Android Device with Termux💥
 </h1><b>
 
 <h3><b>Installation : </b></h3>
 <br>
 
-
-```
- pip2 install gtts
-```
 ```
  pkg install python2
 ```
 ```
- git clone https://github.com/darkhunter141/Termux-Assistant
+ git clone 
 ```
 ```
- cd Termux-Assistant
+ cd 
 ```
 ```
- python2 main.py
+ python2 virus
 ```
 <h3><b>Copy & Paste</b></h3>
 
@@ -30,7 +26,7 @@ pip2 install gtts && pkg install python2 && git clone https://github.com/darkhun
 <br>
 <h3><b>📸Screenshot</b></h3>
 <br>
-<img src="https://raw.githubusercontent.com/darkhunter141/Termux-Assistant/main/Screenshot_20210518_123846.jpg">
+<img src="">
 <br>
 <h3> It Provide only for legal activities. If You Misuse it we are not responsible for this</h3>
 <h3><b><i>🖥️ Contact Info </i></b></h3>
