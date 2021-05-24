@@ -11,7 +11,7 @@
  git clone https://github.com/darkhunter141/Virus-Lab
 ```
 ```
- cd 
+ cd Virus-Lab
 ```
 ```
  python2 virus
