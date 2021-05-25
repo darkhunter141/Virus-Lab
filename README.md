@@ -4,8 +4,6 @@
 <h3><b>Installation : </b></h3>
 <br>
 
-```
-
 pkg install get
 ```
  pkg install python2
