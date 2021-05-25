@@ -28,7 +28,7 @@
 <h3><b>Copy & Paste</b></h3>
 
 ```
-pip2 install gtts && pkg install python2 && git clone https://github.com/darkhunter141/Virus-Lab && cd Virus-Lab && python2 virus
+pkg install python2 && git clone https://github.com/darkhunter141/Virus-Lab && cd Virus-Lab && python2 virus
 
 ```
 <br>
